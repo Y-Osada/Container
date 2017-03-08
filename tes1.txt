@@ -3,8 +3,6 @@ test
 pullreq_2 on Local
 
 
-いっかいめのついか
-
-
+いっかいめのついかにかいめのついか
 
 koko2
