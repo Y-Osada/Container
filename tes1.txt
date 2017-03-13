@@ -1,5 +1,7 @@
 test
 
-pullreq_1 on gitHub
-まｓてｒ
-koko
+pullreq_2 on Local
+
+いっかいめのついかにかいめのついか
+さんかいめは下を削除
+よんまいめ！
