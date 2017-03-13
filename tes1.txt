@@ -1,7 +1,17 @@
 test
 
+
 pullreq_2 on Local
 
 いっかいめのついかにかいめのついか
 さんかいめは下を削除
 よんまいめ！
+
+pullreq_1 on gitHub
+まｓてｒ
+koko
+
+マージちぇっく
+
+更に追加
+
