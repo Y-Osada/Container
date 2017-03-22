@@ -7,7 +7,7 @@ pullreq_2 on Local
 さんかいめは下を削除
 よんまいめ！
 
-pullreq_1 on gitHub
+pr_4 to master
 まｓてｒ
 koko
 
@@ -15,3 +15,4 @@ koko
 
 更に追加
 
+ブランチをいじる
